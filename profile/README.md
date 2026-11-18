@@ -34,6 +34,7 @@ Reliqra is an inventory, identification and selling platform for collectors and 
 The Reliqra API lets Reliqra Pro workspaces read and update inventory, record sales and read shipments from their own code.
 
 - [Developer API overview](https://reliqra.com/developer-api.html)
+- [API reference, OpenAPI description and examples](https://github.com/Reliqra/reliqra-api)
 
 ## Questions?
 
